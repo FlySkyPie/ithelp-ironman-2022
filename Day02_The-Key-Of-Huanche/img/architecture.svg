@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="525.02mm" height="401.3mm" version="1.1" viewBox="0 0 525.02 401.3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="Arrow1Mstart" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6-8" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart-7" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6-5" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart-7-7" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6-5-4" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart-7-78" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6-5-8" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart-3" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6-4" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart-7-78-0" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6-5-8-8" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart-7-78-0-7" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6-5-8-8-7" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart-7-78-0-7-7" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6-5-8-8-7-1" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart-7-9" overflow="visible" orient="auto">
+   <path transform="matrix(.4 0 0 .4 4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend-9-6-5-7" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-171.1 252.6)">
+  <g fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+   <rect x="171.6" y="-252.1" width="524.02" height="400.3" style="paint-order:markers stroke fill"/>
+   <rect x="410.58" y="-242.14" width="271.72" height="189.32" style="paint-order:markers stroke fill"/>
+   <rect x="567.64" y="-223.39" width="105.79" height="76.686" style="paint-order:markers stroke fill"/>
+  </g>
+  <g>
+   <text x="569.82526" y="-212.13667" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="569.82526" y="-212.13667" stroke-width=".26458">Game Server</tspan></text>
+   <rect x="410.44" y="-33.071" width="271.72" height="162.16" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="412.42645" y="-18.910257" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="412.42645" y="-18.910257" stroke-width=".26458">Monkey (Prototype I)</tspan></text>
+  </g>
+  <g transform="translate(60.476 -38.554)">
+   <rect x="516.05" y="-165.41" width="89.141" height="48.094" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="560.22626" y="-150.73544" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" text-anchor="middle" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="560.22626" y="-150.73544" text-align="center">R3F App</tspan><tspan x="560.22626" y="-137.50627" text-align="center">(Render)</tspan><tspan x="560.22626" y="-124.27711" text-align="center">(Envrionment)</tspan></text>
+  </g>
+  <g>
+   <rect x="419.2" y="-156.58" width="105.79" height="47.152" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="421.38071" y="-145.32346" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="421.38071" y="-145.32346" stroke-width=".26458">Controller</tspan></text>
+   <rect x="567.31" y="-136.4" width="105.79" height="74.04" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="569.4953" y="-125.14339" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="569.4953" y="-125.14339" stroke-width=".26458">Data</tspan></text>
+  </g>
+  <g transform="translate(60.774 44.508)">
+   <rect x="516.05" y="-161.27" width="89.141" height="19.368" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="560.5802" y="-147.63908" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="560.5802" y="-147.63908" stroke-width=".26458" text-align="center" text-anchor="middle">Recored</tspan></text>
+  </g>
+  <g transform="translate(61.152 71.742)">
+   <rect x="516.05" y="-161.27" width="89.141" height="19.368" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="560.5802" y="-147.63908" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="560.5802" y="-147.63908" stroke-width=".26458" text-align="center" text-anchor="middle">Log</tspan></text>
+  </g>
+  <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+   <path d="m528.27-126.55h18.943v41.542h16.337" fill="none" marker-end="url(#Arrow1Mend-9)"/>
+   <path d="m528.31-137.43h18.943v-43.621h25.219" fill="none" marker-end="url(#Arrow1Mend-9-6)" marker-start="url(#Arrow1Mstart)"/>
+   <rect x="418.83" y="-223.36" width="105.79" height="24.525" fill="#fff" style="paint-order:markers stroke fill"/>
+  </g>
+  <text x="421.00974" y="-212.10776" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="421.00974" y="-212.10776" stroke-width=".26458">Render Viewer</tspan></text>
+  <path d="m469.72-159.13v-36.713" fill="none" marker-end="url(#Arrow1Mend-9-6-8)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <g>
+   <text x="413.24622" y="-230.5096" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="413.24622" y="-230.5096" stroke-width=".26458">Hakoniwa (Prototype I)</tspan></text>
+   <rect x="417.01" y="-12.523" width="68.372" height="77.621" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="419.19586" y="-1.2710431" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="419.19586" y="-1.2710431" stroke-width=".26458">Controller</tspan></text>
+  </g>
+  <g transform="translate(-1.0415 154.55)">
+   <rect x="516.05" y="-165.41" width="89.141" height="30.989" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="560.2262" y="-146.99167" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="560.2262" y="-146.99167" stroke-width=".26458" text-align="center" text-anchor="middle">Monkey Unit</tspan></text>
+  </g>
+  <g transform="translate(-.77426 193.84)">
+   <rect x="516.05" y="-165.41" width="89.141" height="30.989" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="560.2262" y="-146.99167" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="560.2262" y="-146.99167" stroke-width=".26458" text-align="center" text-anchor="middle">Monkey Unit</tspan></text>
+  </g>
+  <text transform="rotate(90)" x="61.892849" y="-558.17059" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="61.892849" y="-558.17059" stroke-width=".26458">......</tspan></text>
+  <g transform="translate(-.3741 251.17)">
+   <rect x="516.05" y="-165.41" width="89.141" height="30.989" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="560.2262" y="-146.99167" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="560.2262" y="-146.99167" stroke-width=".26458" text-align="center" text-anchor="middle">Monkey Unit</tspan></text>
+  </g>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+   <path d="m510.14 44.387h-11.726v-10.007h-9.9849" marker-end="url(#Arrow1Mend-9-6-5)" marker-start="url(#Arrow1Mstart-7)"/>
+   <path d="m510.98 104.57h-11.726v-48.226h-9.9849" marker-end="url(#Arrow1Mend-9-6-5-4)" marker-start="url(#Arrow1Mstart-7-7)"/>
+   <path d="m511.32 6.4762h-21.711" marker-end="url(#Arrow1Mend-9-6-5-8)" marker-start="url(#Arrow1Mstart-7-78)"/>
+   <path d="m414.87-131.58h-14.801v148.68h13.629" marker-end="url(#Arrow1Mend-9-6-4)" marker-start="url(#Arrow1Mstart-3)"/>
+  </g>
+  <g>
+   <rect x="184.35" y="-34.302" width="197.96" height="162.16" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="188.52124" y="-22.058397" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="188.52124" y="-22.058397" stroke-width=".26458">Primordial Soup (Prototype I)</tspan></text>
+   <rect x="299.37" y="-13.356" width="68.372" height="77.621" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="301.54971" y="-2.1043231" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="301.54971" y="-2.1043231" stroke-width=".26458">Web Server</tspan></text>
+   <rect x="198.34" y="-13.356" width="68.372" height="77.621" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="200.5218" y="-2.1043229" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="200.5218" y="-2.1043229" stroke-width=".26458">Database</tspan></text>
+  </g>
+  <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+   <path d="m295.36 27.058h-24.357" fill="none" marker-end="url(#Arrow1Mend-9-6-5-8-8)" marker-start="url(#Arrow1Mstart-7-78-0)"/>
+   <path d="m412.82 29.103h-41.222" fill="none" marker-end="url(#Arrow1Mend-9-6-5-8-8-7)" marker-start="url(#Arrow1Mstart-7-78-0-7)"/>
+   <rect x="182.24" y="-241.43" width="197.96" height="188.62" fill="#fff" style="paint-order:markers stroke fill"/>
+  </g>
+  <text x="188.18491" y="-226.22313" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="188.18491" y="-226.22313" stroke-width=".26458">Dashboard (Prototype I)</tspan></text>
+  <g transform="translate(-276.41 3.6861)">
+   <rect x="516.05" y="-165.41" width="89.141" height="48.094" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+   <text x="560.22626" y="-138.60182" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="560.22626" y="-138.60182" stroke-width=".26458" text-align="center" text-anchor="middle">React App</tspan></text>
+  </g>
+  <path d="m413.62-142.96h-11.726v0h-68.081" fill="none" marker-end="url(#Arrow1Mend-9-6-5-8-8-7-1)" marker-start="url(#Arrow1Mstart-7-78-0-7-7)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m284.98-108.08v37.652h70.677v53.55" fill="none" marker-end="url(#Arrow1Mend-9-6-5-7)" marker-start="url(#Arrow1Mstart-7-9)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="687.75604" y="142.76524" fill="#000000" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="691.12018" y="142.76524" stroke-width=".26458" text-align="end" text-anchor="end">TKOH Prototype I Architecture Diagram v0.1.0 </tspan></text>
+ </g>
+</svg>
